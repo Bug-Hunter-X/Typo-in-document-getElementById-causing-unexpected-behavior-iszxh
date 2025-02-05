@@ -1,0 +1,1 @@
+This repository contains a simple HTML file demonstrating an uncommon bug related to a typo in the function call `document.getElementById`. The bug is that `getElementByIdx` is used instead of `getElementById`. This might cause the script to fail silently, making it difficult to debug. The solution demonstrates the correct way to access and modify the DOM element.
